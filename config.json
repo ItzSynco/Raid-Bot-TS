@@ -4,8 +4,8 @@
         "english": "The token can be placed here or in .env, you are free to choose"
     },
     "basic": {
-        "prefix": "BOT_PREFIX",
-        "token": "BOT_TOKEN"
+        "prefix": "/",
+        "token": "MTEyNzU4MjYxNjQ3Njk4MzM3OQ.GUXg1A.-iQGeoe9hxjPRHlk45LBqhZJyv7d-JFQC6yBTE"
     },
     "--2-Comments": {
         "arabic":"هنا يجب عليك وضع ID الاشخاص الذين يمكنهم استخدام اوامر البوت ",
